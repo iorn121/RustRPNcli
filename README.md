@@ -2,8 +2,6 @@
 
 This tool allows you to calculate the formula of Reverse Polish Notation written in standard input or in a text file.
 
-# DEMO
-
 # Features
 
 If you install Cargo, Rust's build system and package manager environment, you can perform the calculation by simply typing the `rpncalc` command.
